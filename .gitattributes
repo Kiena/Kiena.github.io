@@ -1,0 +1,3 @@
+* -text
+.git* text eol=lf
+*.html text diff=html eol=lf
